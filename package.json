@@ -1,0 +1,28 @@
+{
+  "name": "technoapp",
+  "version": "1.0.0",
+  "description": "technoapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidiqputra/technoapp.git"
+  },
+  "author": "sidiqputra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "request": "^2.87.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sidiqputra/technoapp/issues"
+  },
+  "homepage": "https://github.com/sidiqputra/technoapp#readme"
+}
